@@ -15,7 +15,7 @@ const Footer = () => {
             Privacy Policy
           </a>
         </div>
-        <p>
+        <p style={{ textAlign: "center" }}>
           &copy; {new Date().getFullYear()} MyMarketplace. All rights reserved.
         </p>
       </div>
