@@ -7,21 +7,10 @@ import AdvertisementList from './components/AdvertisementList';
 const Layout = () => {
   return (
     <div>
-      {/* Navbar */}
-      <header>
         <Navbar />
         <Baner />
-      </header>
-
-      {/* Main Content */}
-      <main>
         <AdvertisementList />
-      </main>
-
-      {/* Footer */}
-      <footer>
         <Footer />
-      </footer>
     </div>
   );
 };
