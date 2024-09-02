@@ -1,25 +1,27 @@
-
-body {
+body 
+{
   background-color: #f3f4f7;
   padding: 10px;
   font-family: Sans-Serif;
   text-align: center;
 }
-header {
+.nav 
+{
+  display: flex;
   background-color: rgb(136, 131, 131);
   padding: 0;
-}
-niv {
-  display: flex;
   text-align: center;
   height: 40px;
+  min-width: 477px;
 
 }
-.logo {
+.logo 
+{
   color:white;
   padding-top: 15px;
 }
-.bar {
+.bar 
+{
   color:white;
   padding-top: 15px;
 }
@@ -28,26 +30,47 @@ niv {
   background-color: red;
   height: 50px;
   padding: 5px;
+  min-width: 477px;
 }
-a {
+a 
+{
   text-decoration: none;
   color:rgb(248, 246, 246);
   padding: 10px;
   margin: 10px;
 }
-table {
+table 
+{
   width: -webkit-fill-available;
 }
-
-h1 {
+td {
+  border: groove;
+  border-radius: 10px;
+}
+p {
+margin: auto;
+padding: 3px 3px 5px 30px;
+}
+button {
+  margin: 5px;
+}
+h1 
+{
   color: white;
   margin: 0;
   height: 60px;
   vertical-align: middle;
+  text-align: center;
 }
-
+h2 
+{
+  text-align: left;
+  padding: 15px;
+  margin: 0;
+}
 footer {
   background-color: rgb(136, 131, 131);
+  min-width: 477px;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
