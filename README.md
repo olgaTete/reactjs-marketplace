@@ -2,7 +2,8 @@ Task: Build a Marketplace Page with ReactJS
 Overview: Your task is to create a user-friendly Marketplace Page using ReactJS, allowing users to explore 
 various services or products. The page should be composed of several components that efficiently handle 
 different aspects of the marketplace.
-![image](https://github.com/user-attachments/assets/26bf0d59-84ce-4f51-8f19-7e7396655056)
+![image](https://github.com/user-attachments/assets/d7fa0978-715b-4f4b-a965-5208ea508673)
+
 
 
 
