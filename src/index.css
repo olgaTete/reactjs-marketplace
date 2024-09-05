@@ -4,6 +4,10 @@ body
   padding: 10px;
   font-family: Sans-Serif;
   text-align: center;
+  min-width: 477px;
+  max-width: 1032px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .nav 
 {
@@ -12,7 +16,6 @@ body
   padding: 0;
   text-align: center;
   height: 40px;
-  min-width: 477px;
 
 }
 .logo 
@@ -30,7 +33,6 @@ body
   background-color: red;
   height: 50px;
   padding: 5px;
-  min-width: 477px;
 }
 a 
 {
@@ -70,7 +72,6 @@ h2
 }
 footer {
   background-color: rgb(136, 131, 131);
-  min-width: 477px;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
